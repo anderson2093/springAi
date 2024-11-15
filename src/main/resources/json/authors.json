@@ -1,0 +1,14 @@
+[
+  {
+    "firstname": "Mario",
+    "lastname": "Vargas Llosa",
+    "country": "Perú",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mario_Vargas_Llosa_%28crop_2%29.jpg/220px-Mario_Vargas_Llosa_%28crop_2%29.jpg"
+  },
+  {
+    "firstname": "J. K.",
+    "lastname": "Rowling",
+    "country": "Inglaterra",
+    "urlPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/220px-J._K._Rowling_2010.jpg"
+  }
+]

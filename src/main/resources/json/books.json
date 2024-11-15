@@ -1,0 +1,16 @@
+[
+  {
+    "name": "La ciudad y los perros",
+    "review": "'La ciudad y los perros' es una novela escrita por el autor peruano Mario Vargas LLosa, publicada en 1963",
+    "author": {"idAuthor": 1},
+    "urlCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQJjpn7bM8tRsOylVM6_eH_hRqxzAN0Fr4w&s",
+    "enabled": true
+  },
+  {
+    "name": "Harry Potter y la piedra filosofal",
+    "review": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que heredado una gran fortuna",
+    "author": {"idAuthor": 2},
+    "urlCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyOhAQMEei5fLk0k3PI1mhokEsg3dzuMPMg&s",
+    "enabled": true
+  }
+]
